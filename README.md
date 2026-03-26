@@ -1,31 +1,17 @@
 ﻿# OOP Applications
 
-## Overview
-This repository was organized and uploaded from a local project workspace.
+## About This Project
+I built this project as part of my learning and practice journey. It focuses on core programming concepts, structure, and problem-solving while improving how I organize code and structure features.
 
-## Repository Stats
-- GitHub repo: Haithm-Shamsan/csharp-oop-applications
-- Scan date: 2026-03-26
-- Total tracked files scanned: 19
-- Text files fully read: 18
-- Binary or non-text files: 1
-- Approximate text line count: 778
+## What I Implemented
+- I implemented core programming concepts, structure, and problem-solving.
+- I organized the project to keep logic clearer and easier to maintain.
 
-## File Types
-- .tlog: 6 files
-- [no_ext]: 2 files
-- .filters: 1 files
-- .sln: 1 files
-- .vcxproj: 1 files
-- .idb: 1 files
-- .aps: 1 files
-- .lastbuildstate: 1 files
+## Tech Stack
+- C# / .NET
 
-## Getting Started
-- Open solution in Visual Studio and run from IDE
-- Or build with .NET CLI: dotnet build
-
-## Project File Sample
+## Project Structure Highlights
+- README.md
 - .gitignore
 - OOP Applications.sln
 - OOP Applications/OOP Applications.aps
@@ -33,19 +19,18 @@ This repository was organized and uploaded from a local project workspace.
 - OOP Applications/OOP Applications.rc
 - OOP Applications/OOP Applications.vcxproj
 - OOP Applications/OOP Applications.vcxproj.filters
-- OOP Applications/x64/Debug/OOP Applications.obj
-- OOP Applications/x64/Debug/OOP Applications.tlog/CL.command.1.tlog
-- OOP Applications/x64/Debug/OOP Applications.tlog/CL.read.1.tlog
-- OOP Applications/x64/Debug/OOP Applications.tlog/CL.write.1.tlog
-- OOP Applications/x64/Debug/OOP Applications.tlog/OOP Applications.lastbuildstate
-- OOP Applications/x64/Debug/OOP Applications.tlog/rc.command.1.tlog
-- OOP Applications/x64/Debug/OOP Applications.tlog/rc.read.1.tlog
-- OOP Applications/x64/Debug/OOP Applications.tlog/rc.write.1.tlog
-- OOP Applications/x64/Debug/OOP Applications.tlog/unsuccessfulbuild
-- OOP Applications/x64/Debug/RCa04492
-- OOP Applications/x64/Debug/vc143.idb
-- OOP Applications/x64/Debug/vc143.pdb
 
-## Notes
-- This README was auto-generated after scanning repository files.
-- You can customize this file with project purpose, screenshots, and usage details.
+## How To Run
+1. Open the `.sln` file in Visual Studio.
+2. Restore/build the solution.
+3. Run the startup project from Visual Studio.
+
+## What I Learned
+- I practiced building features end-to-end, from structure to execution.
+- I improved code organization and readability choices.
+- I strengthened my debugging and iteration workflow.
+
+## Next Improvements
+- Add deeper documentation for each module and workflow.
+- Add tests for the most critical flows.
+- Refine UX/UI and error handling where needed.
